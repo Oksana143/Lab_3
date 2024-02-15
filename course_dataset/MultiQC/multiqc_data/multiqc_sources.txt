@@ -1,0 +1,23 @@
+Module	Section	Sample Name	Source
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668755	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668755.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668756	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668756.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668757	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668757.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668758	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668758.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668759	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668759.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668769	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668769.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668771	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668771.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668772	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668772.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668773	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668773.log
+Kallisto	all_sections	kallisto_output | mappedReads | SRR8668774	/mnt/c/Users/Oksana/Desktop/course_dataset/kallisto_output/mappedReads/SRR8668774.log
+fastp	all_sections	fastp | SRR8668755	/mnt/c/Users/Oksana/Desktop/course_dataset/fastp/fastp.json
+FastQC	all_sections	fastqc _output | SRR8668755_1M_subsample	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668755_1M_subsample_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668755	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668755_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668756	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668756_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668757	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668757_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668758	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668758_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668759	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668759_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668769	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668769_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668771	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668771_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668772	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668772_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668773	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668773_fastqc.zip
+FastQC	all_sections	fastqc _output | SRR8668774	/mnt/c/Users/Oksana/Desktop/course_dataset/fastqc _output/SRR8668774_fastqc.zip
